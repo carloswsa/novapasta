@@ -65,9 +65,16 @@ body {
         line-height: 2em;
     }
 
+    section img{
+
+        max-width: 150px;
+        
+
+    }
     section {
+        
         text-align: center;
-        text-indent: 30px;
+        text-indent: 20px;
         font-size: 1.5em;
         line-height: 0.5em;
     }
