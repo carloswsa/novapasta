@@ -51,6 +51,7 @@ body {
     nav > a:hover {
         background-color: var(--cor3);
         color: var(--cor5);
+        
     }
     main h1 {
         text-align: center;
@@ -66,8 +67,10 @@ body {
     }
 
     section img{
+        
 
         max-width: 150px;
+       margin: 15px;
         
 
     }
